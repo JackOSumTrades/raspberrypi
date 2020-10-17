@@ -6,3 +6,4 @@ Raspberry Pi Code
   
 # Contents
   1. Morse Code using Blink (folder: Morse Code Blink)
+  2. Very Simple Active Buzzer (folder: Active Buzzer)
